@@ -1,5 +1,5 @@
-
-
+#### Note:
+It's a basic json to Object convertor and takes care of only Classes with basic datatypes. 
 #### Sample JSON
 Json:
 ```
@@ -9,7 +9,6 @@ Json:
   "address":"Kerala"
 }
 ```
-
 
 #### Class:
 Class :
