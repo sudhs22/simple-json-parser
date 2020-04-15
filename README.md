@@ -1,5 +1,5 @@
 #### Note:
-It's a basic json to Object convertor and takes care of only Classes with basic datatypes. 
+It's a basic json to Object convertor. 
 #### Sample JSON
 ```
 {
