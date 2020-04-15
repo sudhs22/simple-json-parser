@@ -12,5 +12,5 @@ import lombok.ToString;
 public class Person {
     String id;
     String name;
-    String address;
+    Address address;
 }
